@@ -14,7 +14,9 @@ I am a Data Analyst enthusiast with a strong interest in data-driven decision ma
 ## Featured Projects
 
 ### Machine Learning vs Deep Learning Across Data Types
-End-to-end comparative analysis of Machine Learning and Deep Learning models across three different data types: tabular (Titanic), image (MNIST), and text (Disaster Tweets).  
+End-to-end comparative analysis of Machine Learning and Deep Learning models across three different data types: tabular (Titanic), image (MNIST), and text (Disaster Tweets). 
+
+https://github.com/freskaprisiaa-web/ml-vs-dl-data-analysis
 
 This project evaluates model performance, preprocessing strategies, and trade-offs between accuracy, complexity, and training time. Results show that:
 - Random Forest outperforms deep learning on small tabular data
@@ -22,3 +24,4 @@ This project evaluates model performance, preprocessing strategies, and trade-of
 - Logistic Regression performs best on short-text classification
 
 The project highlights that model selection should be driven by data characteristics rather than model complexity.
+
