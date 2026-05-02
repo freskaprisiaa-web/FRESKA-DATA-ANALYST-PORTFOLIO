@@ -13,6 +13,22 @@ I am a Data Analyst enthusiast with a strong interest in data-driven decision ma
 
 ## Featured Projects
 
+#### Warehouse Operations Intelligence Dashboard
+End-to-end data analytics project simulating warehouse operations to enable real-time monitoring, improve data integrity, and support operational decision-making.
+
+https://github.com/freskaprisiaa-web/warehouse-operations-intelligence
+
+This project builds a complete data pipeline and interactive dashboard to monitor key warehouse KPIs and identify operational bottlenecks.
+Key highlights:
+- Developed data pipeline for inbound, outbound, inventory, and exception data processing
+- Built KPI monitoring system including GR Turnaround Time (GR TAT), Delay Rate, WO Cycle Time, and Inventory Mismatch
+- Designed Power BI dashboard for real-time operational visibility
+- Identified supplier and product-level inefficiencies impacting warehouse performance
+- Implemented data validation and anomaly detection to improve data integrity
+- 
+The project demonstrates how data-driven insights can improve warehouse efficiency, reduce delays, and enhance operational control.
+
+
 ### Machine Learning vs Deep Learning Across Data Types
 End-to-end comparative analysis of Machine Learning and Deep Learning models across three different data types: tabular (Titanic), image (MNIST), and text (Disaster Tweets). 
 
