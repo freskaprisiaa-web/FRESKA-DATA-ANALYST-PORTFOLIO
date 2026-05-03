@@ -26,7 +26,7 @@ Key Highlights:
 
 Tech Stack: Python, SQL, Power BI
 
-#### Warehouse Operations Intelligence Dashboard
+### Warehouse Operations Intelligence Dashboard
 End-to-end data analytics project simulating warehouse operations to enable real-time monitoring, improve data integrity, and support operational decision-making.
 
 https://github.com/freskaprisiaa-web/warehouse-operations-intelligence
