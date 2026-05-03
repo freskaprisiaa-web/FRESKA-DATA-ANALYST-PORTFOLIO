@@ -13,6 +13,17 @@ I am a Data Analyst enthusiast with a strong interest in data-driven decision ma
 
 ## Featured Projects
 
+### Warehouse Fulfillment & Delivery Performance Analysis
+End-to-end logistics analysis project using Python, SQL, and Power BI.
+
+Key Highlights:
+Built KPI metrics (cycle time, delay rate, cost efficiency)
+Performed vendor & shipment mode performance analysis
+Identified high-risk countries and high-cost shipments
+Developed an interactive Power BI dashboard
+
+Tech Stack: Python, SQL, Power BI
+
 #### Warehouse Operations Intelligence Dashboard
 End-to-end data analytics project simulating warehouse operations to enable real-time monitoring, improve data integrity, and support operational decision-making.
 
