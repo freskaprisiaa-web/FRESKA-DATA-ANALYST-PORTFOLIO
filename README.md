@@ -5,13 +5,46 @@ A collection of end-to-end data analysis projects showcasing data cleaning, visu
 I am a Data Analyst enthusiast with a strong interest in data-driven decision making, machine learning, and business analytics. I enjoy transforming raw data into meaningful insights that support operational improvements.
 
 ## Skills & Tools
-- Python (Pandas, NumPy, Scikit-learn)
-- Data Visualization (Matplotlib, Seaborn, Power BI)
-- SQL
-- Machine Learning
-- Data Cleaning & Preprocessing
+
+- Python (Pandas, NumPy, Scikit-learn, PySpark)
+- SQL (MySQL, Spark SQL)
+- Microsoft Excel and Google Sheets
+- Data Visualization (Power BI, Matplotlib, Seaborn)
+- Jupyter Notebook and Parquet
+- Data Cleaning, KPI Analysis, Forecasting, and Machine Learning
 
 ## Featured Projects
+
+### Motorcycle Dealer Sales, Inventory & Financing Analytics
+
+End-to-end dealership analytics project using synthetic sales, inventory, financing, and branch target data.
+
+[GitHub Repository](https://github.com/freskaprisiaa-web/motorcycle-dealer-analytics) | [Live Dashboard](https://freskaprisiaa-web.github.io/motorcycle-dealer-analytics/dashboard.html)
+
+Key Highlights:
+
+- Analyzed 82,709 synthetic sales transactions across multiple branches
+- Built MySQL queries, automated data validation, and KPI analysis
+- Created a Q1 2026 demand forecast with 1.4% backtest MAPE
+- Developed an Excel scorecard and executive dashboard
+
+**Tech Stack:** Python, MySQL, Excel, Jupyter Notebook, Data Visualization
+
+### E-Commerce Clickstream & Customer Funnel Analytics
+
+End-to-end big data analytics project examining customer journeys, conversion funnels, and purchasing behavior.
+
+[GitHub Repository](https://github.com/freskaprisiaa-web/pyspark-ecommerce-clickstream-analytics) | [Live Dashboard](https://freskaprisiaa-web.github.io/pyspark-ecommerce-clickstream-analytics/dashboard.html)
+
+Key Highlights:
+
+- Built a PySpark pipeline for 102,505 events, 50,000 sessions, and 6,635 synthetic orders
+- Analyzed customer funnels, acquisition channels, product categories, and RFM segments
+- Identified conversion opportunities across devices and marketing channels
+- Delivered reproducible analysis through Jupyter Notebook, Parquet, and an interactive dashboard
+
+**Tech Stack:** PySpark, Spark SQL, Python, Jupyter Notebook, Parquet
+
 
 ### Warehouse Fulfillment & Delivery Performance Analysis
 End-to-end logistics analysis project using Python, SQL, and Power BI.
