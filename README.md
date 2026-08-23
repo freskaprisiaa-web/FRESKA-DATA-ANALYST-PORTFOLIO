@@ -1,4 +1,5 @@
-# FRESKA-DATA-ANALYST-PORTFOLIO
+# Freska Prisia Putri — Data & AI Portfolio
+#### Data Analytics • Business Intelligence • Data Science • Machine Learning • Data Engineering
 
 A collection of end-to-end projects across **Data Analytics, Business Intelligence, Data Warehousing, Machine Learning, and Deep Learning**, focused on transforming raw data into structured insights and practical data-driven solutions.
 
