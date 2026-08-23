@@ -61,7 +61,7 @@ The Relational CNN-LSTM achieved the **highest observed performance** among the 
 [View Repository](https://github.com/freskaprisiaa-web/bisindo-learn-ai-platform)
 
 
-### Multi-Branch Retail Performance Data Warehouse & BI
+## Multi-Branch Retail Performance Data Warehouse & BI
 
 End-to-end Business Intelligence and Data Warehouse academic project integrating sales, inventory, CRM, promotions, targets, returns, and forecasting data for multi-branch retail decision-making.
 
@@ -77,7 +77,7 @@ Key Highlights:
 **Tech Stack:** Power BI, DAX, Power Query, Python, SQL, SQLite, MySQL, Jupyter Notebook, Excel
 
 
-### Motorcycle Dealer Sales, Inventory & Financing Analytics
+## Motorcycle Dealer Sales, Inventory & Financing Analytics
 
 End-to-end dealership analytics project using synthetic sales, inventory, financing, and branch target data.
 
@@ -92,7 +92,7 @@ Key Highlights:
 
 **Tech Stack:** Python, MySQL, Excel, Jupyter Notebook, Data Visualization
 
-### E-Commerce Clickstream & Customer Funnel Analytics
+## E-Commerce Clickstream & Customer Funnel Analytics
 
 End-to-end big data analytics project examining customer journeys, conversion funnels, and purchasing behavior.
 
@@ -108,7 +108,7 @@ Key Highlights:
 **Tech Stack:** PySpark, Spark SQL, Python, Jupyter Notebook, Parquet
 
 
-### Warehouse Fulfillment & Delivery Performance Analysis
+## Warehouse Fulfillment & Delivery Performance Analysis
 End-to-end logistics analysis project using Python, SQL, and Power BI.
 
 https://github.com/freskaprisiaa-web/warehouse-fulfillment-analysis
@@ -121,7 +121,7 @@ Key Highlights:
 
 Tech Stack: Python, SQL, Power BI
 
-### Warehouse Operations Intelligence Dashboard
+## Warehouse Operations Intelligence Dashboard
 End-to-end data analytics project simulating warehouse operations to enable real-time monitoring, improve data integrity, and support operational decision-making.
 
 https://github.com/freskaprisiaa-web/warehouse-operations-intelligence
@@ -136,7 +136,7 @@ Key highlights:
 The project demonstrates how data-driven insights can improve warehouse efficiency, reduce delays, and enhance operational control.
 
 
-### Machine Learning vs Deep Learning Across Data Types
+## Machine Learning vs Deep Learning Across Data Types
 End-to-end comparative analysis of Machine Learning and Deep Learning models across three different data types: tabular (Titanic), image (MNIST), and text (Disaster Tweets). 
 
 https://github.com/freskaprisiaa-web/ml-vs-dl-data-analysis
