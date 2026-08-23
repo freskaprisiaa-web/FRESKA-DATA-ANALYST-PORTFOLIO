@@ -1,20 +1,31 @@
 # FRESKA-DATA-ANALYST-PORTFOLIO
-A collection of end-to-end data analysis projects showcasing data cleaning, visualization, and machine learning for real-world business cases. This repository showcases my data analysis projects focused on solving real-world business problems using data-driven approaches.
 
-## Hi, Im Freska
-I am a Data Analyst enthusiast with a strong interest in data-driven decision making, machine learning, and business analytics. I enjoy transforming raw data into meaningful insights that support operational improvements.
+A collection of end-to-end projects across **Data Analytics, Business Intelligence, Data Warehousing, Machine Learning, and Deep Learning**, focused on transforming raw data into structured insights and practical data-driven solutions.
+
+## Hi, I'm Freska
+
+I am an Information Systems graduate with a strong interest in **Data Analytics, Business Intelligence, Data Science, and Machine Learning**.
+
+My projects cover a broad range of data workflows, including data cleaning, SQL analysis, dimensional modeling, dashboard development, large-scale data processing, predictive modeling, deep learning experimentation, and model deployment.
+
+I enjoy working with data from both business and technical perspectives—whether it involves identifying operational patterns, building analytical dashboards, designing data pipelines, or developing machine learning models for real-world applications.
 
 ## Skills & Tools
 
-- Python (Pandas, NumPy, Scikit-learn, PySpark)
-- SQL (MySQL, Spark SQL)
-- Microsoft Excel and Google Sheets
-- Data Visualization (Power BI, Matplotlib, Seaborn)
-- Jupyter Notebook and Parquet
-- Data Cleaning, KPI Analysis, Forecasting, and Machine Learning
-- Business Intelligence & Data Warehousing (Power BI, DAX, Power Query, Dimensional Modeling, ETL)
+- **Programming & Data Analysis:** Python, Pandas, NumPy
+- **SQL & Databases:** MySQL, SQLite, Spark SQL
+- **Business Intelligence:** Power BI, DAX, Power Query
+- **Data Visualization:** Power BI, Matplotlib, Plotly
+- **Data Warehousing:** Dimensional Modeling, Star Schema, ETL
+- **Big Data:** PySpark, Parquet, distributed data processing
+- **Machine Learning:** Scikit-learn, classification, forecasting, feature engineering, model evaluation
+- **Deep Learning:** TensorFlow/Keras, CNN, LSTM, CNN-LSTM, temporal modeling
+- **Computer Vision:** MediaPipe Holistic, landmark-based gesture recognition
+- **Model Evaluation:** Cross-validation, LOSO validation, Accuracy, Precision, Recall, F1-score, Top-K Accuracy
+- **Model Deployment:** Flask REST API, inference pipeline integration
+- **Tools:** Jupyter Notebook, Microsoft Excel, Git, GitHub
 
-## Featured Projects
+# Featured Projects
 
 ## Real-Time BISINDO Gesture Recognition — Deep Learning Thesis Project
 
@@ -61,7 +72,7 @@ The Relational CNN-LSTM achieved the **highest observed performance** among the 
 [View Repository](https://github.com/freskaprisiaa-web/bisindo-learn-ai-platform)
 
 
-## Multi-Branch Retail Performance Data Warehouse & BI
+## Multi-Branch Retail Performance Data Warehouse & BI - DWBI Course Final Project
 
 End-to-end Business Intelligence and Data Warehouse academic project integrating sales, inventory, CRM, promotions, targets, returns, and forecasting data for multi-branch retail decision-making.
 
@@ -77,7 +88,7 @@ Key Highlights:
 **Tech Stack:** Power BI, DAX, Power Query, Python, SQL, SQLite, MySQL, Jupyter Notebook, Excel
 
 
-## Motorcycle Dealer Sales, Inventory & Financing Analytics
+## Motorcycle Dealer Sales, Inventory & Financing Analytics - Self Project
 
 End-to-end dealership analytics project using synthetic sales, inventory, financing, and branch target data.
 
@@ -92,7 +103,7 @@ Key Highlights:
 
 **Tech Stack:** Python, MySQL, Excel, Jupyter Notebook, Data Visualization
 
-## E-Commerce Clickstream & Customer Funnel Analytics
+## E-Commerce Clickstream & Customer Funnel Analytics - Big Data Management Course Final Project
 
 End-to-end big data analytics project examining customer journeys, conversion funnels, and purchasing behavior.
 
@@ -108,7 +119,7 @@ Key Highlights:
 **Tech Stack:** PySpark, Spark SQL, Python, Jupyter Notebook, Parquet
 
 
-## Warehouse Fulfillment & Delivery Performance Analysis
+## Warehouse Fulfillment & Delivery Performance Analysis - Self Project
 End-to-end logistics analysis project using Python, SQL, and Power BI.
 
 https://github.com/freskaprisiaa-web/warehouse-fulfillment-analysis
@@ -121,7 +132,7 @@ Key Highlights:
 
 Tech Stack: Python, SQL, Power BI
 
-## Warehouse Operations Intelligence Dashboard
+## Warehouse Operations Intelligence Dashboard - Self Project
 End-to-end data analytics project simulating warehouse operations to enable real-time monitoring, improve data integrity, and support operational decision-making.
 
 https://github.com/freskaprisiaa-web/warehouse-operations-intelligence
@@ -136,7 +147,7 @@ Key highlights:
 The project demonstrates how data-driven insights can improve warehouse efficiency, reduce delays, and enhance operational control.
 
 
-## Machine Learning vs Deep Learning Across Data Types
+## Machine Learning vs Deep Learning Across Data Types - Self Project
 End-to-end comparative analysis of Machine Learning and Deep Learning models across three different data types: tabular (Titanic), image (MNIST), and text (Disaster Tweets). 
 
 https://github.com/freskaprisiaa-web/ml-vs-dl-data-analysis
