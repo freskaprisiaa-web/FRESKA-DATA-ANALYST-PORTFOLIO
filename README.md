@@ -16,6 +16,51 @@ I am a Data Analyst enthusiast with a strong interest in data-driven decision ma
 
 ## Featured Projects
 
+## Real-Time BISINDO Gesture Recognition — Deep Learning Thesis Project
+
+An end-to-end deep learning project for recognizing dynamic Indonesian Sign Language (**BISINDO**) gestures in real time.
+
+This project was developed as part of my undergraduate thesis and combines landmark-based computer vision, temporal deep learning, feature engineering, signer-independent evaluation, and deployment-oriented inference integration.
+
+### Key Highlights
+
+- Processed **713 gesture sequences** collected from **7 independent school signers**
+- Classified **15 dynamic BISINDO gesture classes**
+- Represented each gesture as a **30-frame temporal sequence**
+- Extracted **159 MediaPipe Holistic landmark features per frame**
+- Engineered an additional **35 relational landmark features**, resulting in **194 features per frame**
+- Evaluated multiple model configurations using **seven-fold Leave-One-Signer-Out (LOSO) cross-validation**
+- Compared temporal deep learning architectures for signer-independent gesture recognition
+- Selected a **Relational CNN-LSTM** model based on observed performance, compact architecture, and deployment suitability
+- Achieved:
+  - **88.25% mean accuracy**
+  - **86.32% Supported Macro-F1**
+  - **97.12% mean Top-3 accuracy**
+- Integrated the final model into a **Flask inference API** for real-time application use
+
+### Model Comparison
+
+| Model | Input | Accuracy | Supported Macro-F1 | Top-3 Accuracy |
+|---|---:|---:|---:|---:|
+| CNN-LSTM Baseline | `(30,159)` | 74.56% | 70.55% | 92.33% |
+| Landmark Temporal Transformer | `(30,159)` | 79.88% | 76.41% | 90.92% |
+| **Relational CNN-LSTM** | **`(30,194)`** | **88.25%** | **86.32%** | **97.12%** |
+
+The Relational CNN-LSTM achieved the **highest observed performance** among the evaluated models. However, the pairwise gains were not statistically significant after Holm correction, so the result is presented as the strongest observed configuration rather than proof of universal superiority.
+
+### Technical Scope
+
+- **Domain:** Computer Vision, Deep Learning, Sign Language Recognition
+- **Data Type:** Temporal landmark sequence data
+- **Feature Representation:** MediaPipe Holistic landmarks + relational landmark features
+- **Evaluation Strategy:** Seven-fold Leave-One-Signer-Out cross-validation
+- **Deployment:** Flask-based inference API for real-time integration
+
+**Tech Stack:** Python, TensorFlow/Keras, MediaPipe Holistic, NumPy, Pandas, Scikit-learn, Flask, Jupyter Notebook
+
+[View Repository](https://github.com/freskaprisiaa-web/bisindo-learn-ai-platform)
+
+
 ### Multi-Branch Retail Performance Data Warehouse & BI
 
 End-to-end Business Intelligence and Data Warehouse academic project integrating sales, inventory, CRM, promotions, targets, returns, and forecasting data for multi-branch retail decision-making.
