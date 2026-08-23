@@ -12,8 +12,25 @@ I am a Data Analyst enthusiast with a strong interest in data-driven decision ma
 - Data Visualization (Power BI, Matplotlib, Seaborn)
 - Jupyter Notebook and Parquet
 - Data Cleaning, KPI Analysis, Forecasting, and Machine Learning
+- Business Intelligence & Data Warehousing (Power BI, DAX, Power Query, Dimensional Modeling, ETL)
 
 ## Featured Projects
+
+### Multi-Branch Retail Performance Data Warehouse & BI
+
+End-to-end Business Intelligence and Data Warehouse academic project integrating sales, inventory, CRM, promotions, targets, returns, and forecasting data for multi-branch retail decision-making.
+
+[GitHub Repository](https://github.com/freskaprisiaa-web/retail-performance-data-warehouse-bi) | [Live Dashboard](https://freskaprisiaa-web.github.io/retail-performance-data-warehouse-bi/dashboard.html)
+
+Key Highlights:
+
+- Designed a dimensional warehouse with 6 conformed dimensions and 5 fact tables across 12 retail branches
+- Processed 120,000 sales records through automated ETL, validation, and reconciliation workflows
+- Developed Power BI and HTML dashboards covering revenue, target attainment, margin, stockout, returns, and channel performance
+- Generated a Q1 2026 baseline forecast of 16,668 units with 7.9% backtest MAPE
+
+**Tech Stack:** Power BI, DAX, Power Query, Python, SQL, SQLite, MySQL, Jupyter Notebook, Excel
+
 
 ### Motorcycle Dealer Sales, Inventory & Financing Analytics
 
