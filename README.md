@@ -43,9 +43,8 @@ End-to-end retail analytics project that transforms more than **3 million sales 
 
 [Repository](https://github.com/freskaprisiaa-web/retail-demand-intelligence) |
 [Notebook](https://github.com/freskaprisiaa-web/retail-demand-intelligence/blob/main/analysis.ipynb) |
-[Power BI File](https://github.com/freskaprisiaa-web/retail-demand-intelligence/blob/main/powerbi/Retail_Demand_Intelligence.pbix) |
+[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmRkZDRkYmUtODM2Yy00OTYxLTgwMjktOTk4MzJkYjk4YTI4IiwidCI6IjkwYWZmZTBmLWMyYTMtNDEwOC1iYjk4LTZjZWI0ZTk0ZWYxNSIsImMiOjEwfQ%3D%3D) |
 [Excel Report](https://github.com/freskaprisiaa-web/retail-demand-intelligence/blob/main/Retail_Demand_Intelligence.xlsx) |
-[HTML Dashboard](https://freskaprisiaa-web.github.io/retail-demand-intelligence/dashboard.html) |
 [Kaggle Competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 
 
