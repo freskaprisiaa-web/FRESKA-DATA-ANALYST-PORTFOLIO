@@ -28,6 +28,27 @@ I enjoy working with data from both business and technical perspectives—whethe
 
 # Featured Projects
 
+## Retail Demand Intelligence & Continuous Improvement
+
+**Independent Kaggle Competition Project | CRISP-DM**  
+`Python` `SQL` `Excel` `Power BI` `Forecasting` `Business Analysis`
+
+End-to-end retail analytics project that transforms more than **3 million sales records** from 54 stores and 33 product families into demand forecasts, KPI monitoring, recurring reports, and continuous-improvement recommendations.
+
+- Integrated sales, promotions, transactions, holidays, oil prices, store, and product data.
+- Developed a leakage-safe 16-day forecasting workflow with **0.551 RMSLE**, **17.2% WAPE**, and **−1.5% bias**.
+- Built interactive Power BI dashboards for sales performance and forecast monitoring.
+- Produced Excel management reports, SQL analysis, KPI definitions, business requirements, and an improvement backlog.
+- Generated a Kaggle-ready submission containing **28,512 predictions**.
+
+[Repository](https://github.com/freskaprisiaa-web/retail-demand-intelligence) |
+[Notebook](https://github.com/freskaprisiaa-web/retail-demand-intelligence/blob/main/analysis.ipynb) |
+[Power BI File](https://github.com/freskaprisiaa-web/retail-demand-intelligence/blob/main/powerbi/Retail_Demand_Intelligence.pbix) |
+[Excel Report](https://github.com/freskaprisiaa-web/retail-demand-intelligence/blob/main/Retail_Demand_Intelligence.xlsx) |
+[HTML Dashboard](https://freskaprisiaa-web.github.io/retail-demand-intelligence/dashboard.html) |
+[Kaggle Competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
+
+
 ## Real-Time BISINDO Gesture Recognition — Deep Learning Thesis Project
 
 An end-to-end deep learning project for recognizing dynamic Indonesian Sign Language (**BISINDO**) gestures in real time.
