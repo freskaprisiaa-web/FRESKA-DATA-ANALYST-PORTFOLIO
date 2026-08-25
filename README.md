@@ -28,6 +28,26 @@ I enjoy working with data from both business and technical perspectives—whethe
 
 # Featured Projects
 
+## Customer Experience & SLA Performance Monitoring
+
+**CRM Operations Analytics | Python · SQL · Excel · Power BI · DAX**
+
+End-to-end customer experience and service-operations analytics project covering **85,907 customer-support interactions**, from data validation and KPI design through SQL analysis, operational reporting, Power BI monitoring, prioritization, and business recommendations.
+
+**Key Highlights**
+- Analyzed **85,907 support interactions** across issue categories, channels, CSAT, response performance, and operational segments.
+- Built a validated KPI framework covering **Average CSAT, Low CSAT Rate, Median/P90 Response Time, and 60-minute analytical SLA compliance**.
+- Developed reusable **SQLite analytics** for customer experience, issue concentration, response performance, SLA monitoring, and periodic reporting.
+- Created a **10-sheet Excel operational report** for executive KPIs, daily/weekly monitoring, issue drill-down, channel/SLA analysis, and operational screening.
+- Built a **4-page Power BI dashboard** covering Executive Overview, Issue & Customer Experience, Service & SLA Performance, and Operational Screening.
+- Designed an interpretable **Priority 1 / Priority 2 / Watchlist / Context** follow-up framework without arbitrary weighted scoring.
+- Identified **Returns as primarily scale-led**, while **Email showed a smaller but elevated CX/service signal**, supporting different operational follow-up approaches.
+- Translated validated findings into evidence-based investigation and monitoring recommendations while preserving non-causal interpretation.
+
+**Portfolio Metrics:** 4.24 Average CSAT · 14.57% Low CSAT · 6 min Median Response · 78.67% Analytical SLA Compliance
+
+[Repository](https://github.com/freskaprisiaa-web/customer-experience-sla-monitoring)
+
 ## Retail Demand Intelligence & Continuous Improvement
 
 **Independent Kaggle Competition Project | CRISP-DM**  
