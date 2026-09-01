@@ -28,6 +28,54 @@ I enjoy working with data from both business and technical perspectives—whethe
 
 # Featured Projects
 
+## Multi-Label Car Condition Classification & AI Dataset Pipeline
+
+**Computer Vision & Deep Learning | Python · TensorFlow/Keras · EfficientNetB0 · Playwright · Scikit-learn**
+
+An end-to-end computer vision project for identifying the open or closed state of five vehicle components from rendered images. The project covers programmatic image acquisition, state-derived multi-label annotation, dataset quality control, leakage-aware splitting, transfer learning, validation-only threshold selection, and error analysis.
+
+**Key Highlights**
+
+- Generated and audited **960 simulator images** covering all **32 binary state combinations**, with 30 viewpoints per combination and balanced positive/negative observations for every label.
+- Built a reproducible Playwright-based data-collection pipeline that derives labels directly from controlled simulator states and automatically checks image integrity, completeness, and duplication.
+- Designed an **azimuth-grouped train/validation/test split** to prevent different zoom levels from the same camera orientation from leaking across datasets.
+- Compared frozen **MobileNetV2** and **EfficientNetB0** transfer-learning models, then partially fine-tuned the stronger validation candidate.
+- Selected per-label decision thresholds exclusively on validation data before evaluating the locked model on an untouched test set.
+- Achieved **0.735 Macro F1**, **0.726 Micro F1**, and **0.761 Mean ROC-AUC** on the test set after validation-based threshold optimization.
+- Performed label- and viewpoint-level error analysis while clearly documenting the limitations of simulator-generated data and the absence of real-world vehicle validation.
+
+**Portfolio Metrics:** 960 images · 32 state combinations · 5 target labels · 0.735 Macro F1 · 0.726 Micro F1
+
+[Repository](https://github.com/freskaprisiaa-web/car-condition-multilabel-classification) |
+[Notebook](https://github.com/freskaprisiaa-web/car-condition-multilabel-classification/blob/main/notebook/car_condition_multilabel_classification.ipynb)
+
+
+## Furniture Export Sales, Fulfillment & Forecasting Intelligence
+
+**Business Analytics & Business Intelligence | Python · SQL · Excel · Power BI · DAX · Forecasting**
+
+An end-to-end business analytics project that transforms public global retail-order data into a validated decision-support workflow for furniture commercial performance, profitability, order-to-ship fulfillment, forecasting, operational monitoring, process improvement, and business requirements.
+
+**Key Highlights**
+
+- Prepared and validated **51,290 source order lines**, including a Furniture analytical subset of **9,876 order lines** and **8,240 logical orders**.
+- Established consistent, aggregate-safe KPI definitions across Python, SQL, Excel, and Power BI for Sales, Profit, Profit Margin, loss exposure, lead time, and Shipping Cost Ratio.
+- Identified approximately **4.11 million in Furniture Sales**, **285 thousand in Profit**, and a **6.94% Profit Margin**, while highlighting Tables as the primary sub-category requiring profitability investigation.
+- Built a reusable SQLite analytical layer containing indexed facts, quality checks, curated views, and business queries that reconcile with the Python analytical outputs.
+- Developed a **12-sheet Excel operational report** with native tables, formula-driven reporting, charts, conditional formatting, and recurring monitoring views.
+- Created a **4-page Power BI dashboard** covering Executive Overview, Market & Product Performance, Fulfillment & Shipping Performance, and Forecast & Improvement Priorities.
+- Evaluated four time-series forecasting approaches using expanding rolling-origin backtesting and selected **Holt-Winters Additive** with **12.07% WAPE** for the six-month point forecast.
+- Translated analytical evidence into seven monitoring workstreams, governed KPI definitions, system requirements, user stories, acceptance criteria, and evidence-to-requirement traceability.
+- Completed **1,415/1,415 controlling analytical validation checks** across the main delivery phases.
+
+**Portfolio Metrics:** 4.11M Sales · 6.94% Profit Margin · 12.07% Forecast WAPE · 1,415/1,415 validation checks
+
+[Repository](https://github.com/freskaprisiaa-web/furniture-export-sales-fulfillment-forecasting) |
+[Recruiter Summary](https://github.com/freskaprisiaa-web/furniture-export-sales-fulfillment-forecasting/blob/main/docs/RECRUITER_PROJECT_SUMMARY.md) |
+[Excel Report](https://github.com/freskaprisiaa-web/furniture-export-sales-fulfillment-forecasting/blob/main/excel/Furniture_Business_Performance_Operational_Report.xlsx) |
+[Power BI Screenshots](https://github.com/freskaprisiaa-web/furniture-export-sales-fulfillment-forecasting/tree/main/screenshots/powerbi)
+
+
 ## Customer Experience & SLA Performance Monitoring
 
 **CRM Operations Analytics | Python · SQL · Excel · Power BI · DAX**
