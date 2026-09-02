@@ -28,6 +28,26 @@ I enjoy working with data from both business and technical perspectives—whethe
 
 # Featured Projects
 
+## CFPB Credit Card Complaints Intelligence
+
+**Data Engineering & Business Intelligence | Databricks · PySpark · Spark SQL · Delta Tables · Unity Catalog**
+
+An independent portfolio project analyzing 9,073 CFPB credit card complaints received in January 2025 through data validation, Bronze–Silver–Gold processing, and a Databricks AI/BI dashboard.
+
+**Key Highlights**
+
+- Built Bronze, Silver, and Gold Delta tables to preserve source data, prepare analytical fields, and generate dashboard-ready summaries.
+- Validated complaint IDs, date fields, and selected analytical columns, and reconciled transformed data with saved tables and dashboard aggregates.
+- Developed a dashboard covering total complaints, daily complaint volume, company response categories, and response timeliness.
+- Reported a 99.71% timely-response rate, with 26 records marked not timely, distinguishing these from the separate “Untimely response” category.
+- Published a documented notebook with saved outputs removed and a dashboard PDF, with clear metric definitions and interpretation limits.
+
+**Portfolio Metrics:** 9,073 complaints · 31 daily summaries · 99.71% timely responses
+
+[Repository](https://github.com/freskaprisiaa-web/cfpb-complaints-intelligence) | [Notebook](https://github.com/freskaprisiaa-web/cfpb-complaints-intelligence/blob/main/notebooks/01_data_understanding_public.ipynb) | [Dashboard PDF](https://github.com/freskaprisiaa-web/cfpb-complaints-intelligence/blob/main/dashboard/CFPB_Credit_Card_Complaints_January_2025.pdf)
+
+---
+
 ## Multi-Label Car Condition Classification & AI Dataset Pipeline
 
 **Computer Vision & Deep Learning | Python · TensorFlow/Keras · EfficientNetB0 · Playwright · Scikit-learn**
