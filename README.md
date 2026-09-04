@@ -28,6 +28,31 @@ I enjoy working with data from both business and technical perspectives—whethe
 
 # Featured Projects
 
+## EV Delivery Fleet Investment Analysis
+
+**Mobility Analytics & Investment Analysis | Python · SQL · Excel · Power BI · DAX**
+
+An end-to-end decision-support project that transforms public logistics trip data into operational diagnostics, route-level EV suitability screening, and a scenario-based fleet investment case.
+
+**Key Highlights**
+
+- Validated and transformed **144,867 logistics segment records** into **26,369 unique trip legs** across **14,817 trips**.
+- Analyzed actual-versus-OSRM route performance across **2,783 directional routes** to identify distance, travel-time, and reliability gaps.
+- Developed an EV suitability framework using buffered round-trip distance, route frequency, operational reliability, and charging feasibility, identifying **41 priority pilot candidates**.
+- Built a formula-driven Excel investment model covering operating cost, incremental CAPEX, simple payback, ROI, NPV, IRR, and sensitivity analysis.
+- Created a **4-page interactive Power BI dashboard** covering operational performance, route reliability, EV suitability, and investment scenarios.
+- Estimated a Base-case saving of **IDR 1,573.61/km**, **1.86-year payback**, **IDR 823.8 million five-year pilot NPV**, and **45.5% IRR**.
+- Clearly separated sourced inputs, analyst assumptions, operational proxies, and investment limitations to preserve decision transparency.
+
+**Portfolio Metrics:** 144,867 source records · 26,369 trip legs · 2,783 directional routes · 41 pilot candidates · 1.86-year Base payback
+
+[Repository](https://github.com/freskaprisiaa-web/ev-delivery-fleet-investment-analysis) |
+[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTRkNDYxNzctM2NjOS00MTMyLTk2ZDItY2RkZDA2MDkyOWVmIiwidCI6IjkwYWZmZTBmLWMyYTMtNDEwOC1iYjk4LTZjZWI0ZTk0ZWYxNSIsImMiOjEwfQ%3D%3D) |
+[Notebook](https://github.com/freskaprisiaa-web/ev-delivery-fleet-investment-analysis/blob/main/notebooks/EV_Delivery_Fleet_Investment_Analysis.ipynb) |
+[Excel Model](https://github.com/freskaprisiaa-web/ev-delivery-fleet-investment-analysis/blob/main/financial_model/EV_Fleet_Investment_Model.xlsx)
+
+---
+
 ## CFPB Credit Card Complaints Intelligence
 
 **Data Engineering & Business Intelligence | Databricks · PySpark · Spark SQL · Delta Tables · Unity Catalog**
