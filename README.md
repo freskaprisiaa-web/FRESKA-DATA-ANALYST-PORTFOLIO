@@ -28,6 +28,28 @@ I enjoy working with data from both business and technical perspectives—whethe
 
 # Featured Projects
 
+## Indonesia Electric Two-Wheeler Market Expansion & Battery-Swap Investment Analysis
+
+Investment Analytics & Business Intelligence | Python · SQL · Excel · Power BI · DAX
+
+An end-to-end investment analytics project that transforms official Indonesian market data into a 38-province opportunity screen, an auditable battery-swap financial model, and a stage-gated investment recommendation.
+
+Key Highlights
+
+* Integrated and harmonized market, vehicle-registration, economic, infrastructure, and industry data from BPS, AISI, ESDM, Kemenperin, PLN, and manufacturer publications.
+* Screened all 38 Indonesian provinces using motorcycle stock, provincial GRDP, comparable market growth, and regional battery-swap infrastructure gaps.
+* Identified Kalimantan Timur as the leading diligence candidate with a 71.8 market-attractiveness score, while highlighting that the top three provinces are separated by only 0.3 points.
+* Developed reusable SQL workflows for data-quality validation, independent market-score recomputation, province ranking, and future pilot-performance monitoring.
+* Built an eight-sheet, formula-driven Excel investment model covering unit economics, CAPEX, seven-year financial projections, sensitivity analysis, and downside/base/upside scenarios.
+* Estimated an illustrative base-case NPV of IDR 1.06 billion excluding terminal value, a 28.2% IRR, and a 4.6-year cash-payback period on IDR 1.77 billion initial CAPEX.
+* Created a five-page Power BI report covering national market context, province prioritization, scenario-based investment returns, pilot scale-up governance, and source-level quality assurance.
+* Completed 20/20 automated data-quality checks and documented source lineage, provisional data, geographic comparability, infrastructure-grain limitations, and terminal-value dependence.
+* Recommended proceeding to city-level and commercial due diligence rather than immediate capital deployment.
+
+Portfolio Metrics: 38 Provinces · 145.25M Registered Motorcycles · 0.127% Indicative EV Penetration · 28.2% Base-Case IRR · 20/20 QA Checks
+
+[Repository](https://github.com/freskaprisiaa-web/indonesia-ev-two-wheeler-investment-analysis) | [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDkxNGE1NTItZDM1MC00MzA2LWJmN2ItNTgzMGJjMDk5NThhIiwidCI6IjkwYWZmZTBmLWMyYTMtNDEwOC1iYjk4LTZjZWI0ZTk0ZWYxNSIsImMiOjEwfQ%3D%3D&pageName=3b2c0d94a908ed942f07) | [Excel Investment Model](https://github.com/freskaprisiaa-web/indonesia-ev-two-wheeler-investment-analysis/blob/main/financial_model/Indonesia_EV_Two_Wheeler_Investment_Model.xlsx) | [Investment Committee Memo](https://github.com/freskaprisiaa-web/indonesia-ev-two-wheeler-investment-analysis/blob/main/reports/investment_committee_memo.md)
+
 ## EV Delivery Fleet Investment Analysis
 
 **Mobility Analytics & Investment Analysis | Python · SQL · Excel · Power BI · DAX**
