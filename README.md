@@ -28,6 +28,28 @@ I enjoy working with data from both business and technical perspectives—whethe
 
 # Featured Projects
 
+## Fleet Cost Control & Route Efficiency Analysis
+
+**Cost Analytics & Business Intelligence | Python · SQL · Excel · Power BI · DAX**
+
+An end-to-end cost analytics project that transforms synthetic trucking operations data into a validated decision-support workflow for fleet spending, route economics, maintenance performance, fuel-cost drivers, and operational efficiency scenarios.
+
+**Key Highlights**
+
+- Integrated and validated **549,706 records across 14 operational tables**, covering trips, routes, vehicles, fuel purchases, maintenance, deliveries, drivers, and supporting master data.
+- Built a trip-level analytical fact and reusable monthly, route, and fleet reporting datasets while preserving missing assignments and preventing duplicate revenue, mileage, and cost aggregation.
+- Analyzed **85,410 trips across 58 routes** and established aggregate-safe KPI definitions for modeled cost, recorded spending, cost per mile, weighted MPG, partial contribution, and strict on-time delivery.
+- Separated transaction-based recorded spending from dispatch-based modeled trip cost, preventing the **$31.91M recorded spending** and **$24.44M modeled cost** from being treated as directly comparable measures.
+- Decomposed the **$1.13M decline in modeled fuel cost from 2023 to 2024** into volume, route mix, fuel intensity, and price/timing effects, identifying price and timing as the primary associated driver.
+- Developed a **seven-sheet, formula-driven Excel cost review** covering annual and monthly KPIs, route and fleet analysis, a fuel-cost bridge, editable scenarios, and analytical notes.
+- Created a **four-page interactive Power BI dashboard** covering Cost Overview, Route Analysis, Fleet & Maintenance, and Scenario & Data Quality Review.
+- Evaluated an illustrative working scenario combining a 2% gallon reduction, 1% fuel-price reduction, and $50,000 implementation cost, producing an estimated **$637K net benefit** on the 2024 modeled fuel-cost base.
+- Completed **9/9 analytical reconciliation checks** and documented fuel-purchase gaps, maintenance-allocation limitations, timestamp inconsistencies, missing assignments, and unsupported decision areas.
+
+**Portfolio Metrics:** 549,706 Source Records · 85,410 Trips · 58 Routes · $31.91M Recorded 2024 Spending · $0.599 Modeled Cost per Mile · $637K Illustrative Net Benefit · 9/9 Reconciliation Checks
+
+[Repository](https://github.com/freskaprisiaa-web/fleet-cost-control-route-efficiency-analysis) | [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTVkYmJkMjMtMThmZC00NWIyLWE5MGUtYjQwY2JkZjA3YzlkIiwidCI6IjkwYWZmZTBmLWMyYTMtNDEwOC1iYjk4LTZjZWI0ZTk0ZWYxNSIsImMiOjEwfQ%3D%3D) | [Analysis Notebook](https://github.com/freskaprisiaa-web/fleet-cost-control-route-efficiency-analysis/blob/main/notebooks/01_fleet_cost_control_analysis.ipynb) | [Excel Cost Review](https://github.com/freskaprisiaa-web/fleet-cost-control-route-efficiency-analysis/blob/main/excel/Fleet_Cost_Review_Freska.xlsx)
+
 ## Indonesia Electric Two-Wheeler Market Expansion & Battery-Swap Investment Analysis
 
 Investment Analytics & Business Intelligence | Python · SQL · Excel · Power BI · DAX
